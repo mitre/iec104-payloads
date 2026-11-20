@@ -1,8 +1,10 @@
 # NOTICE
 
-`iec104_cli`, the payload for the IEC 60870-5-104 plugin for MITRE Caldera.
+`iec104_cli`, the payload for the IEC 60870-5-104 plugin for Caldera for OT.
 
-Copyright (c) 2026 Asher Davila and Malav Vyas.
+Copyright (c) 2026 Asher Davila ([AsherDLL](https://github.com/AsherDLL)) and Malav Vyas ([malavvyas](https://github.com/malavvyas)), Palo Alto Networks.
+
+Contributed to MITRE Caldera for OT; this repository is not maintained by MITRE.
 
 This program is free software: you can redistribute it and/or modify it under the
 terms of the **GNU General Public License v3.0 or later** (see `LICENSE`).
