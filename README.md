@@ -1,6 +1,6 @@
 # Caldera for OT plugin: IEC 104 - Payloads
 
-> Contributed by Palo Alto Networks. This repository is not maintained by MITRE.
+> Contributed by Palo Alto Networks. Not maintained by MITRE: the payload and its pinned dependency are frozen as contributed and will not be updated.
 
 This repository provides the compiled payload binaries as well as the payload source
 code for the [Caldera for OT](https://github.com/mitre/caldera-ot) IEC 104 plugin.
