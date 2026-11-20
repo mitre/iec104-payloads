@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
 """Unit tests for the iec104_cli action library.
 
 Each test stands up a real c104 outstation (server) on localhost and drives it

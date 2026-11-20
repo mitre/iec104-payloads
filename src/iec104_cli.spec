@@ -1,5 +1,4 @@
 # -*- mode: python ; coding: utf-8 -*-
-# SPDX-License-Identifier: GPL-3.0-or-later
 # PyInstaller spec: bundle iec104_cli into a single self-contained executable.
 # c104 ships a compiled extension module, so collect its binaries/data in full.
 from PyInstaller.utils.hooks import collect_all

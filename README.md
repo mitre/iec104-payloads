@@ -1,5 +1,7 @@
 # Caldera for OT plugin: IEC 104 - Payloads
 
+> Contributed by Palo Alto Networks. Not maintained by MITRE: the payload and its pinned dependency are frozen as contributed and will not be updated.
+
 This repository provides the compiled payload binaries as well as the payload source
 code for the [Caldera for OT](https://github.com/mitre/caldera-ot) IEC 104 plugin.
 
@@ -58,7 +60,7 @@ wheel, and it does not compile on the macOS runners).
 
 1. Clone the repository:
 ```
-git clone https://github.com/AsherDLL/iec104-payloads.git
+git clone https://github.com/mitre/iec104-payloads.git
 ```
 2. Build the payload for the host platform:
 ```bash
@@ -125,7 +127,7 @@ Use `iec104_cli --help` to get started.
 
 ## Authors
 
-This payload was contributed by **Asher Davila** and **Malav Vyas**.
+This payload was contributed by **Asher Davila** ([AsherDLL](https://github.com/AsherDLL)) and **Malav Vyas** ([malavvyas](https://github.com/malavvyas)) of Palo Alto Networks.
 
 ## License
 

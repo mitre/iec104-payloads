@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
 # Build the iec104_cli payload with PyInstaller.
 #
 #   make build/local     build for the host platform (needs a local venv)

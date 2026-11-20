@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
 """A small IEC 60870-5-104 client action library built on top of c104.
 
 Exposes IEC104Client, a thin wrapper that turns the c104 master/client API into
