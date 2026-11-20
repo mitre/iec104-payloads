@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
 """iec104_cli - a command-line IEC 60870-5-104 master for adversary emulation.
 
 A single, generic client that speaks IEC-104 to any conforming outstation. It is

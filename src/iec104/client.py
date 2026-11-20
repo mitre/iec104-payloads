@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
 """IEC 60870-5-104 master-station client actions, backed by the c104 library.
 
 Every method maps to one IEC-104 master action and returns a bool that reflects
